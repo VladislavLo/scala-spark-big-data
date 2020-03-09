@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7c8bc93-b850-44b4-9ab4-d9819b3feb37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UFYxqUJb0u8QrKhICaFR4nroRh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../fourth" />
+  </component>
+  <component name="RunManager" selected="JUnit.WikipediaSuite">
+    <configuration name="WikipediaSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-wikipedia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wikipedia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wikipedia" />
+      <option name="MAIN_CLASS_NAME" value="wikipedia.WikipediaSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WikipediaSuite.$u0027rankLangs$u0027$u0020should$u0020work$u0020for$u0020RDD$u0020with$u0020two$u0020elements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-wikipedia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wikipedia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wikipedia" />
+      <option name="MAIN_CLASS_NAME" value="wikipedia.WikipediaSuite" />
+      <option name="METHOD_NAME" value="$u0027rankLangs$u0027$u0020should$u0020work$u0020for$u0020RDD$u0020with$u0020two$u0020elements" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WikipediaSuite" />
+        <item itemvalue="JUnit.WikipediaSuite.$u0027rankLangs$u0027$u0020should$u0020work$u0020for$u0020RDD$u0020with$u0020two$u0020elements" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="bigdata-wikipedia" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="wikipedia [file:/home/slava/learning/scala/coursera_scala/CourseraTasks/spark/wikipedia/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="bigdata-wikipedia-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429246276000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2250139156" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/forcomp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/funsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/objsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/patmat" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../barneshut" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../kmeans" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../reductions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scalashop" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala/CourseraTasks/quickcheck" value="PREVIEW" />
+        <entry key="$USER_HOME$/scala/CourseraTasks/streams" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7c8bc93-b850-44b4-9ab4-d9819b3feb37" name="Default Changelist" comment="" />
+      <created>1574954059942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574954059942</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="140" width="424" height="513" key="FileChooserDialogImpl" timestamp="1576161810845">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="494" y="140" width="424" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1576161810845" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1575555219719">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575555219719" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1575555219718">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575555219718" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1575555219718">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575555219718" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1575555219718">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575555219718" />
+    <state x="67" y="123" width="1289" height="547" key="new project wizard" timestamp="1574956801382">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="123" width="1289" height="547" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1574956801382" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/test/scala/wikipedia/WikipediaSuite.scala</url>
+          <line>86</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/test/scala/wikipedia/WikipediaSuite.scala</url>
+          <line>103</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
